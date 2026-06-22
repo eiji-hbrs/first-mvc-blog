@@ -11,7 +11,7 @@ const DB_PORT = 3306;
 const DB_NAME = "localhost";
 const DB_CHARSET = "utf-8";
 const DB_LOGIN = "root";
-const DB_PWD = "";
+const DB_PWD = "f";
 
 // préparation de la connexion
 const DB_DSN = DB_TYPE.":host=".DB_HOST.";dbname=".DB_NAME.";port=".DB_PORT.";dbcharset=".DB_CHARSET.";";
